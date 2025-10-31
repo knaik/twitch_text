@@ -1,1 +1,1 @@
-!editcmd hello goodbye
+!command edit !testC !editcmd hello world
